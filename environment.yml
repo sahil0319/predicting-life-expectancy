@@ -1,0 +1,13 @@
+name: /Users/mahdisahil/Desktop/Predicting-LIfe-Expectancy/venv
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - seaborn
+prefix: /Users/mahdisahil/Desktop/Predicting-LIfe-Expectancy/venv

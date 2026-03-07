@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual / Conda / Mamba envs
+env/
+.venv/
+venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Models / outputs
+models/
+reports/
+*.pkl
+*.joblib
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
