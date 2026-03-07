@@ -13,8 +13,9 @@ env/
 venv/
 
 # Data
-data/raw/
-data/processed/
+# data/raw/*.csv
+# data/processed/*.csv
+
 
 # Models / outputs
 models/
@@ -29,3 +30,6 @@ reports/
 
 # Secrets
 .env
+
+#pictures
+*.png
