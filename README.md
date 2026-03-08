@@ -30,7 +30,7 @@ This project uses `conda` to manage its environment and dependencies. To set up 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sahil0319/predicting-life-expectancy.git
    cd Predicting-Life-Expectancy
    ```
 
